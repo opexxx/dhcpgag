@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-    Methods for shutting up a dhcp server on your lan intelligently (and optionally resotre it)
+    Methods for shutting up a dhcp server on your lan intelligently (and optionally restore it)
     Copyright (C) 2015  Bram Staps (Glasswall B.V.)
 
     This file is part of Dhcpgag.
