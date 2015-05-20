@@ -28,7 +28,7 @@ Manual install withoutout a package:
 Install python 2.X (preferably 2.7)
 Install scapy (2.2 or higher)
 
-Just copy the following files to the smae directory and give them executable rights:
+Just copy the following files to the same directory and give them executable rights:
 - dhcpdrain.py
 - dhcprevoker.py
 - dhcpshow.py
